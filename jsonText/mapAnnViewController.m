@@ -16,6 +16,7 @@
     jsonObject *  mapSingleton;
     BOOL isFirstLocationReceived;   
     NSInteger index;
+    NSString *iLoveGoogle;
 
 }
 @property (weak, nonatomic) IBOutlet MKMapView *mapView;
